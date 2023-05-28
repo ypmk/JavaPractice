@@ -1,0 +1,11 @@
+spring:
+    datasource:
+        url: "jdbc:postgresql://localhost:5432/postgres"
+        username: "postgres"
+        password: "StReKoZa1ypmk"
+    mail:
+        host: "smtp.yandex.ru"
+        username: "kopylovakseniakopylova@yandex.ru"
+        password: "vdxyhqaiyuxqvfgq"
+        port: "465"
+        protocol: "smtps"
